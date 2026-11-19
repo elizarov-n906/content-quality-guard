@@ -20,19 +20,23 @@
 
 ---
 
-
-
-
 ## О плагине
 
 Часто авторы случайно публикуют записи без текста или с минимальным содержанием. Content Quality Guard решает эту проблему, анализируя контент на лету. Если в записи меньше заданного порога кириллических символов, она не сможет быть опубликована и будет автоматически сохранена как черновик. 
 
 Плагин также добавляет колонку «Кириллица» в список записей с цветовой индикацией и позволяет выводить количество символов прямо на сайте для прозрачности перед читателями. Меню управления находится в удобном разделе **«Консоль»**.
 
- <img src="assets/1.jpg" alt="Content Quality Guard — контроль качества контента в WordPress" width="100%" style="max-width: 100%;">
- <img src="assets/2.jpg" alt="Content Quality Guard — контроль качества контента в WordPress" width="100%" style="max-width: 100%;">
-
-
+<br>
+<p align="center">
+  <img src="assets/1.jpg" alt="Интерфейс плагина в админке" width="100%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</p>
+<br>
+<p align="center">
+  <img src="assets/2.jpg" alt="Пример вывода бейджа на сайте" width="100%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</p>
+<p align="center">
+  <img src="assets/3.jpg" alt="Пример вывода бейджа на сайте" width="100%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</p>
 ---
 
 ## Возможности
